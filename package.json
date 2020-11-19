@@ -1,0 +1,23 @@
+{
+  "name": "celo-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^0.4.14",
+    "@openzeppelin/contracts": "^3.2.0",
+    "@openzeppelin/contracts-upgradeable": "^3.2.0",
+    "@openzeppelin/truffle-upgrades": "^1.2.5",
+    "bignumber.js": "^9.0.1",
+    "solc": "^0.6.0",
+    "web3": "^1.3.0"
+  }
+}

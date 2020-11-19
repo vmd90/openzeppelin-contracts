@@ -1,0 +1,10 @@
+
+.secret*
+
+node_modules/
+
+build/
+
+.openzeppelin/
+
+.vscode/
